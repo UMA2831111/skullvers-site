@@ -1,10 +1,9 @@
-import React from "react";
+import React from 'react';
 
 export default function SkullversSite() {
   return (
-    <main>
-      <h1>Skullvers is live</h1>
-      {/* ...rest of the code... */}
-    </main>
+    <div>
+      <h1>Skullvers is alive!</h1>
+    </div>
   );
 }
